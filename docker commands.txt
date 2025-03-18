@@ -1,0 +1,4 @@
+docker images
+docker ps
+docker run 
+docker run -itd -P  53a18edff809
